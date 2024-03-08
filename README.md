@@ -26,7 +26,7 @@ promises to empower the next generation of insect-related AI models, bringing th
 
 ## Data
 
-The Insect Foundation Dataset can be downloaded [here](https://uark-cviu.github.io/projects/insect-foundation/insect_foundation.html)
+The Insect Foundation Dataset can be downloaded [here](https://uark-cviu.github.io/projects/insect_foundation.html)
 
 ## Code and Model
 
