@@ -16,4 +16,4 @@ In precision agriculture, the detection and recognition of insects play an essen
 
 ## Data
 
-The Insect Foundation Dataset can be downloaded [here](https://uark-cviu.github.io/projects/insect_foundation.html)
+The Insect Foundation Dataset can be downloaded [here](https://uark-cviu.github.io/projects/insect-foundation)
